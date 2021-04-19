@@ -5,7 +5,5 @@ public enum Brand {
     LEXUS,
     HYUNDAI,
     MERCEDES,
-    BMW,
-    BUSHMAN,
-    M1
+    BMW
 }
